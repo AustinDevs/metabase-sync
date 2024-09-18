@@ -1,0 +1,13 @@
+{
+  "collections": [
+    {
+      "database_id": "Database 1",
+      "collection_id": 1
+    },
+    {
+      "database_id": "To Database",
+      "collection_id": 2
+    }
+  ],
+  "entities": []
+}
